@@ -1,2 +1,2 @@
-# -javaweb-
-蒋璐 201830590093
+# -javaweb-JSP+Servlet
+基于JSP和Servlet的电商项目
